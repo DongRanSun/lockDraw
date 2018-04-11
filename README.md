@@ -1,2 +1,2 @@
 # lockDraw
-![image](https://github.com/DongRanSun/lockDraw/blob/master/clock.gif）
+![image](https://github.com/DongRanSun/lockDraw/blob/master/clock.gif)
